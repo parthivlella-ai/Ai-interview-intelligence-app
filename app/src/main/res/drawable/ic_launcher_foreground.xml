@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Chat / interview bubble badge -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M34,30 C30,30 28,32 28,36 L28,66 C28,70 30,72 34,72 L42,72 L50,80 L50,72 L74,72 C78,72 80,70 80,66 L80,36 C80,32 78,30 74,30 Z" />
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M36,33 C33,33 31,35 31,38 L31,63 C31,66 33,68 36,68 L44,68 L48,73 L48,68 L72,68 C75,68 77,66 77,63 L77,38 C77,35 75,33 72,33 Z" />
+
+    <!-- Neural intelligence spark in center -->
+    <!-- Center node -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,51m-4,0a4,4 0,1,1 8,0a4,4 0,1,1 -8,0" />
+    <!-- Top-left node -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M43,43m-3,0a3,3 0,1,1 6,0a3,3 0,1,1 -6,0" />
+    <!-- Top-right node -->
+    <path
+        android:fillColor="#A78BFA"
+        android:pathData="M65,43m-3,0a3,3 0,1,1 6,0a3,3 0,1,1 -6,0" />
+    <!-- Bottom node -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M54,61m-3,0a3,3 0,1,1 6,0a3,3 0,1,1 -6,0" />
+
+    <!-- Connecting neural synapses -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.75"
+        android:pathData="M43,43 L54,51 M65,43 L54,51 M54,51 L54,61" />
+
+    <!-- Soundwave/Signal bars on sides -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M37,48 L37,54 M71,48 L71,54" />
+</vector>

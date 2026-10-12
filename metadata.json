@@ -1,0 +1,6 @@
+{
+  "name": "SkillSense AI",
+  "description": "Adaptive Interview Intelligence Android platform providing personalized questions, evidence-based answer evaluation, integrity tracking, and skill-gap reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
